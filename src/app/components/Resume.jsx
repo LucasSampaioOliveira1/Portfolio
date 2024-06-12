@@ -17,11 +17,17 @@ const Resume = () => {
                 </h1>
                 <div className='flex flex-wrap gap-4'>
 
-                    <a href="https://github.com/LucasSampaioOliveira" className="text-sm font-semibold text-zinc-200 hover:text-yellow-200 transition duration-500" target="_blank">
+                    <a href="https://github.com/LucasSampaioOliveira1" className="text-sm font-semibold text-zinc-200 hover:text-yellow-200 transition duration-500" target="_blank">
                         <Github/>
+                        <p>Novo</p>
                     </a>
 
-                    <a href="https://www.linkedin.com/in/lucas-sampaio-0aa72320b/" className="text-sm font-semibold text-zinc-200 hover:text-yellow-200 transition duration-500" target="_blank">
+                    <a href="https://github.com/LucasSampaioOliveira" className="text-sm font-semibold text-zinc-200 hover:text-yellow-200 transition duration-500" target="_blank">
+                        <Github/>
+                        <p>Antigo</p>
+                    </a>
+
+                    <a href="https://www.linkedin.com/in/lucas-sampaio-467578306/" className="text-sm font-semibold text-zinc-200 hover:text-yellow-200 transition duration-500" target="_blank">
                         <Linkedin/>
                     </a>
 

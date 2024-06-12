@@ -62,16 +62,16 @@ export default function Home() {
             >
               <ul className="items-center justify-center gap-10 space-y-8 md:flex md:space-x-6 md:space-y-0">
                 <li className="text-[#ffffff] hover:text-yellow-200 transition duration-500">
-                    <a href="">Home</a>
+                    <a href="#resume">Home</a>
                 </li>
                 <li className="text-[#ffffff] hover:text-yellow-200 transition duration-500">
-                    <a href="">Sobre</a>
+                    <a href="#sobre">Sobre</a>
                 </li>
                 <li className="text-[#ffffff] hover:text-yellow-200 transition duration-500">
-                    <a href="">Projetos</a>
+                    <a href="#projetos">Projetos</a>
                 </li>
                 <li className="text-[#ffffff] hover:text-yellow-200 transition duration-500">
-                    <a href="">Contato</a>
+                    <a href="#contato">Contato</a>
                 </li>
               </ul>
             </div>
