@@ -15,7 +15,7 @@ const Resume = () => {
                 <h1 id="developer">
                     Developer
                 </h1>
-                <div className='flex flex-wrap gap-4'>
+                <div className='flex flex-wrap gap-12 mt-10'>
 
                     <a href="https://github.com/LucasSampaioOliveira1" className="text-sm font-semibold text-zinc-200 hover:text-yellow-200 transition duration-500" target="_blank">
                         <Github/>
@@ -29,10 +29,12 @@ const Resume = () => {
 
                     <a href="https://www.linkedin.com/in/lucas-sampaio-467578306/" className="text-sm font-semibold text-zinc-200 hover:text-yellow-200 transition duration-500" target="_blank">
                         <Linkedin/>
+                        <p>Linkedin</p>
                     </a>
 
                     <a href="https://www.instagram.com/lucas.sampaio33/" className="text-sm font-semibold text-zinc-200 hover:text-yellow-200 transition duration-500" target="_blank">
                         <Instagram/>
+                        <p>Instagram</p>
                     </a>
                 </div>
 
