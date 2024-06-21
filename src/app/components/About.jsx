@@ -6,7 +6,7 @@ const About = () => {
                     Sobre
                 </h1>
                 <p id="p-sobre" className="animate fadeInLeft three leading-7 tracking-wide text-lg">
-                    Olá, me chamo Lucas Sampaio, o meu interesse pela programação veio porque eu sempre me fiz essa pergunta, como os jogos e aplicativos foram criados ? desde então eu comecei a estudar engines como Unity, Unreal, mas era apenas como um hobby, até que eu parei de estudar engines e comecei a buscar cursos online, e nessa busca conheci o front end e me apaixonei logo de cara, sempre foi o meu ponto forte mas entendo um pouco do back end, atualmente usando Nextjs e Tailwindcss em projetos como principais ferramentas, realizei alguns freelances, fui professor de front end na Compilando Já em Vila velha, atualmente buscando por um novo desafio.
+                    Olá, me chamo Lucas Sampaio. O meu interesse pela programação surgiu porque eu sempre me fazia essa pergunta: como os jogos e aplicativos são criados? Desde então, comecei a estudar engines como Unity e Unreal, mas era apenas um hobby. Até que parei de estudar engines e comecei a buscar cursos online. Nessa busca, conheci o front-end e me apaixonei logo de cara. Sempre foi o meu ponto forte, mas entendo um pouco de back-end. Atualmente, uso Next.js e Tailwind CSS em projetos como principais ferramentas. Realizei alguns freelances e fui professor de front-end na Compilando Já, em Vila Velha. Atualmente, estou buscando um novo desafio.
                 </p>
             </div>
         </div>
