@@ -9,7 +9,7 @@ const Resume = () => {
                 </h1>
 
                 <h1 className="text-yellow-200 font-abc text-7xl font-semibold max-md:text-5xl">
-                    Front end
+                    FullStack
                 </h1>
 
                 <h1 id="developer">
